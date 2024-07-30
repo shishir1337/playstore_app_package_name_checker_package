@@ -59,14 +59,14 @@ Contributions are welcome! Please feel free to fork this repository and submit p
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
-### Customization Tips:
-- **Badges**: Update the GitHub license badge with your repository's license and the PyPI version badge with your actual package name.
-- **Features**: Customize the features section to highlight the specific functionalities of your package.
-- **Installation**: Provide any specific installation instructions or dependencies if necessary.
-- **Usage**: Include code examples demonstrating how to use your package in different scenarios.
-- **Contributing**: Add guidelines for contributors if you want others to contribute to your project.
-- **License**: Ensure the license section accurately reflects the license under which your package is distributed.
+
+## Customization Tips:
+- Badges: Update the GitHub license badge with your repository's license and the PyPI version badge with your actual package name.
+- Features: Customize the features section to highlight the specific functionalities of your package.
+- Installation: Provide any specific installation instructions or dependencies if necessary.
+- Usage: Include code examples demonstrating how to use your package in different scenarios.
+- Contributing: Add guidelines for contributors if you want others to contribute to your project.
+- License: Ensure the license section accurately reflects the license under which your package is distributed.
 
 Feel free to expand and tailor this template to fit the specifics of your `package_name_checker` Python package. If you need more guidance or have further questions, let me know!
